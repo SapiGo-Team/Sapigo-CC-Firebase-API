@@ -1,1 +1,1 @@
-# Sapigo-CC-Firebase-API
+# Sapigo-CC-Firebase-API Deployment to Cloud Functions
